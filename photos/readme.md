@@ -50,7 +50,7 @@
 
 - Vortex also includes an integrated EasyInstaller
 
-- easyInstaller Created by [Lupus](Https://github.com/EZFNDEV) maintained by [Kyro](Https://github.com/Kyro) and updated from patch 15.30 to patch 21.00 by [me](github.com/Mr-Cuda)
+- WasyInstaller Created by [Lupus](Https://github.com/EZFNDEV) maintained by [Kyro](Https://github.com/Kyro) and updated from patch 15.30 to patch 21.00 by [me](https.//github.com/Mr-Cuda)
 
 ## What can it be used with?
 
