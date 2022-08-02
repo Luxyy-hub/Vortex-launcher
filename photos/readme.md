@@ -43,20 +43,20 @@
 
 # Other Features
 
-- Vortex supports SSL bypass from patch 14.20 to patch 21.00 (not latest cuz Byfron and Hyperion) 
+- This launcher supports SSL bypass from patch 14.20 to patch 21.00 (not latest cuz Byfron and Hyperion) 
 - if you are interested in fortnite modding you know what i am talking about.
 
 ## EasyInstaller
 
 - Vortex also includes an integrated EasyInstaller
 
-- easyInstaller Created by [Lupus](Https://github.com/EZFN) maintained by [Kyro](Https://github.com/Kyro) and updated from patch 15.30 to patch 21.00 by [me](github.com/Mr-Cuda)
+- easyInstaller Created by [Lupus](Https://github.com/EZFNDEV) maintained by [Kyro](Https://github.com/Kyro) and updated from patch 15.30 to patch 21.00 by [me](github.com/Mr-Cuda)
 
 ## What can it be used with?
 
-- Vortex is a luancher that support the most famous private servers!
+- Vortex is a launcher that support the most famous private servers!
 
-- such [Neonite](github.com/neonite) or [Lawin](github.com/Lawin-Server)
+- such [Neonite](https://github.com/NeoniteDev/NeoniteV2) or [Lawin](github.com/Lawin-Server)
 
 
 
